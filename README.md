@@ -1,4 +1,4 @@
-# Script for Telegram to block all stories adn unblock for specific users
+# Block all Stories in Telegram
 
 ## Installation
 
